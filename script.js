@@ -8,7 +8,7 @@
 
 <button onclick="document.getElementById('my image').src='Untitled design (1).png'">open parade doors</button>
 
-<img id="Untitled design.png" src="pic_bulboff.gif" style="width:100px">
+<img id="Untitled design.png" src="Untitled design.png" style="width:100px">
 
 <button onclick="document.getElementById('My image').src='Untitled design.png'">close parade doors </button>
 
